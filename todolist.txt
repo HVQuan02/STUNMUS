@@ -10,6 +10,7 @@ gpt chatbot
 now
 fix punnycode
 refresh token later
+xoa node_modules tren github
 
 de sau
 sign in with fb later
