@@ -1,0 +1,19 @@
+user icon in nav bar (navbar only shown when user log in)
+ gg log out in dropout of user icon
+prettier with some rule (quotation mark, no trailing comma, no semicolon, etc)
+ todolist (crud only, no ui)
+gr chat (refer code dao, no ui), tao nhiu gr chat, add tv, len appoinment
+flashcard (no srs alg), noti, share link
+gpt chatbot
+ zoom meeting
+
+now
+fix punnycode
+refresh token later
+
+de sau
+sign in with fb later
+flashcard srs alg
+nhieu server (microservice)
+
+h lm to learn list
