@@ -51,8 +51,8 @@ To get started with the Stunmus app, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Stunmus.git
-   cd Stunmus
+   git clone https://github.com/HVQuan02/STUNMUS.git
+   cd STUNMUS
    ```
 
 2. **Install Dependencies:**
@@ -82,5 +82,3 @@ Contributions are welcome! If you have ideas for improvements, new features, or 
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Replace placeholder information such as `your-username` with your actual GitHub username. This template covers essential sections, but you can expand or modify it to better suit your project's needs.
