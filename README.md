@@ -15,13 +15,14 @@ Stunmus is a comprehensive learning and music app that combines study features w
 ## Features
 
 Stunmus includes the following features:
-
-- Flashcards with spaced-repetition algorithm
-- Video call meeting room
+### Study
+- Flashcards with spaced-repetition algorithm, like Anki
+- Video call meeting room, like Zoom
 - Group chat with collaborative whiteboard
-- Pronunciation correction
-- Smart chatbot
-- Clock timer with points system
+- Pronunciation correction, like Elsa
+- Smart chatbot, like ChatGPT
+- Clock timer
+### Music
 - Music store with playlist management
 - Youtube link to MP3 conversion
 - Music generation and autotune
